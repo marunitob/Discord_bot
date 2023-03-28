@@ -1,0 +1,4 @@
+import botos
+
+if __name__ == '__main__':
+    botos.run_discord_bot()
